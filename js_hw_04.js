@@ -38,12 +38,12 @@ const product = {
     'OperatingSystem': 10 ,
     'batteriesIncluded': false ,
 
-    addToCard : function() {
-        
+    addToCart : function() {
+        console.log('Product added to cart successfully')
     } ,
 
-    removeFromCard : function() {
-        
+    removeFromCart : function() {
+        console.log('Product removed from cart successfully')
     }
 }
 console.log(product)
