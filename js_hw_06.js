@@ -59,9 +59,8 @@ const removePerson = (persons) => {
         case 6:
             persons.splice(6,7)
             break;
-        
-    
         default:
+            console.log('Index Out Of Range ')
             break;
     }
 }
@@ -160,7 +159,7 @@ const editPerson = (persons) => {
             }
             break;
         default:
-            console.log('Out Of Range Index')
+            console.log('Index Out Of Range')
             break;
     }
 }  
