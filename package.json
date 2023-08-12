@@ -1,0 +1,22 @@
+{
+  "name": "ts_hw_07",
+  "version": "1.0.0",
+  "description": "typescript homework seventh session",
+  "main": "js_hw_07",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Star20003/js_hw.git"
+  },
+  "keywords": [
+    "ts_hw"
+  ],
+  "author": "Stateira Mehtari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Star20003/js_hw/issues"
+  },
+  "homepage": "https://github.com/Star20003/js_hw#readme"
+}
