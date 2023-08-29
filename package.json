@@ -1,0 +1,28 @@
+{
+  "name": "ts_hw_11",
+  "version": "1.0.0",
+  "description": "typescript homework eleventh session",
+  "main": "ts_hw_11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Star20003/js_hw.git"
+  },
+  "keywords": [
+    "ts_hw"
+  ],
+  "author": "Stateira Mehtari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Star20003/js_hw/issues"
+  },
+  "homepage": "https://github.com/Star20003/js_hw#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  }
+}
